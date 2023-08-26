@@ -1,4 +1,4 @@
-Welcome to My GitHub Profile! 🚀
+
 👋 Hello, fellow coders! My name is Punpun, and my coding journey began at a coding camp that ignited my passion for technology. Surrounded by like-minded enthusiasts, I dove headfirst into the exciting world of programming, and I've never looked back.
 
 💻 I ventured into the field of web development and fell in love with it. From front-end wizardry to back-end architecture, every aspect fuels my curiosity and creativity.
