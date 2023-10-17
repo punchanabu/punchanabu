@@ -6,7 +6,7 @@ I'm a Engineering student at Chulalongkorn University deeply passionate about we
 
 ## 🛠 Technologies
 ![](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
-![](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript)
+![](https://img.shields.io/badge/-TypeScript-%23007ACC?style=for-the-badge&logo=typescript)
 ![](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5)
 ![](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3)
 ![](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
