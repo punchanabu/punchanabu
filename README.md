@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm a student at Chulalongkorn University deeply passionate about web development. I find immense joy in turning lines of code into fully functional and visually appealing websites.
+I'm a Computer Engineering student at Chulalongkorn University deeply passionate about web development. I find immense joy in turning lines of code into fully functional and visually appealing websites.
 
 ## 🛠 Technologies
 ![](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
