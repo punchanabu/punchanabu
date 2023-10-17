@@ -5,14 +5,14 @@
 I'm a Engineering student at Chulalongkorn University deeply passionate about web development. I find immense joy in turning lines of code into fully functional and visually appealing websites.
 
 ## 🛠 Technologies
-![](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
-![](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript)
-![](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
-![](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
-![](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![](https://img.shields.io/badge/-TailwindCSS-blue?style=flat&logo=tailwind-css)
-![](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb)
-![](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript)
+![](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5)
+![](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3)
+![](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![](https://img.shields.io/badge/-TailwindCSS-blue?style=for-the-badge&logo=tailwind-css)
+![](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)
+![](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 
 ## 🌱 What I'm Currently Learning
 
