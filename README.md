@@ -18,6 +18,6 @@ I'm a student at Chulalongkorn University deeply passionate about web developmen
 
 I'm currently exploring the JAMstack architecture.
 
-📫 How to Reach Me
+## 📫 How to Reach Me
 
 Feel free to contact me through [email](mailto:punpunsirawit@gmail.com)
