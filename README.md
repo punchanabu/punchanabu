@@ -11,7 +11,6 @@ I'm a Engineering student at Chulalongkorn University deeply passionate about we
 ![](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3)
 ![](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![](https://img.shields.io/badge/-TailwindCSS-blue?style=for-the-badge&logo=tailwind-css)
-![](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)
 ![](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 
 ## 🌱 What I'm Currently Learning
