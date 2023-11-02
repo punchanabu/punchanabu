@@ -13,9 +13,6 @@ I'm a Engineering student at Chulalongkorn University deeply passionate about we
 ![](https://img.shields.io/badge/-TailwindCSS-blue?style=for-the-badge&logo=tailwind-css)
 ![](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 
-## 🌱 What I'm Currently Learning
-
-I'm currently exploring the JAMstack architecture.
 
 ## 📫 How to Reach Me
 
