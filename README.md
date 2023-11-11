@@ -22,7 +22,7 @@
 ![](https://img.shields.io/badge/-Prisma-3982CE?style=for-the-badge&logo=prisma)
 ![](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest)
 ![](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux)
-
+![](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express)
 
 ## 📫 How to Reach Me
 
