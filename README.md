@@ -21,12 +21,7 @@
 ![](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
 ![](https://img.shields.io/badge/-Prisma-3982CE?style=for-the-badge&logo=prisma)
 ![](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest)
-![](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux)
-![](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express)
 
 ## 📫 How to Reach Me
 
 Feel free to contact me through [email](mailto:punpunsirawit@gmail.com)
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=punchanabu&langs_count=5&theme=tokyonight)]()
-
