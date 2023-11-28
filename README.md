@@ -2,9 +2,8 @@
 
 ## 🚀 Who Am I?
 - 🎓 A curious learner studying at Chulalongkorn University.
-- 🖥️ Passionate about frontend development - constantly evolving and expanding my skills.
-- 💡 Enthusiastic about turning challenges into opportunities for growth and learning.
-- 🌱 Deeply engaged in mastering Next.js
+- 📚 My experience is Frontend Development using React, Backend using Node.js
+- 🌱 I'm currently exploring Next.js
 - 🤝 Eager to collaborate, learn, and make meaningful contributions in the tech world.
 
 ## 🛠 Technologies
