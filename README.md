@@ -26,6 +26,8 @@
 ![](https://img.shields.io/badge/-Prisma-3982CE?style=for-the-badge&logo=prisma)
 ![](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
 ![](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest)
+![](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+
 
 ## 📫 How to Reach Me
 
