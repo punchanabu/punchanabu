@@ -18,11 +18,12 @@
 ![](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![](https://img.shields.io/badge/-TailwindCSS-blue?style=for-the-badge&logo=tailwind-css)
 ![](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
+![](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest)
 
-### Tools 
+### Database and Tools 
 ![](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![](https://img.shields.io/badge/-Prisma-3982CE?style=for-the-badge&logo=prisma)
-![](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest)
+![](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)
 
 ## 📫 How to Reach Me
 
