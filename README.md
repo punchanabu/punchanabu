@@ -7,17 +7,20 @@
 - 🤝 Eager to collaborate, learn, and make meaningful contributions in the tech world.
 
 ## 🛠 Technologies
+
+### Languages
 ![](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![](https://img.shields.io/badge/-TypeScript-%234D90D1?style=for-the-badge&logo=typescript) 
 ![](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5)
 ![](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3)
+
+### Framework and Libraries
 ![](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![](https://img.shields.io/badge/-TailwindCSS-blue?style=for-the-badge&logo=tailwind-css)
-![](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-
-## 🌱 What I'm Currently Learning
-
 ![](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
+
+### Tools 
+![](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![](https://img.shields.io/badge/-Prisma-3982CE?style=for-the-badge&logo=prisma)
 ![](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest)
 
