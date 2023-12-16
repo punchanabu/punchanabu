@@ -7,6 +7,14 @@
 - 🤝 Eager to collaborate, learn, and make meaningful contributions in the tech world.
 
 
+## 📖 Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=punchanabu&theme=github)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punchanabu&layout=compact&theme=vue)
+
+
+
+
 
 
 
