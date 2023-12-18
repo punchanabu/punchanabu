@@ -9,7 +9,6 @@
 
 ![](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5)
 ![](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3)
 ![](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
