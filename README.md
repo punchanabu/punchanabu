@@ -16,8 +16,8 @@
 ![](https://img.shields.io/badge/-TailwindCSS-blue?style=for-the-badge&logo=tailwind-css)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux)
 ![](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=express)
-![](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)
+![](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 
 ## 📫 How to Reach Me
 
