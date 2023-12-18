@@ -8,7 +8,7 @@
 ## 🛠 My Tech Stack
 
 ![](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus)
-![](https://img.shields.io/badge/-TypeScript-%234D90D1?style=for-the-badge&logo=typescript) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5)
 ![](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3)
 ![](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
