@@ -19,9 +19,13 @@
 ### Tools
 ![](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)
 ![](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+## Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=punchanabu" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=punchanabu&layout=compact&langs_count=8&card_width=320" />
+</a>
 
-## 📫 How to Reach Me
 
-Feel free to contact me through [email](mailto:punpunsirawit@gmail.com)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=punchanabu&color=blue)
