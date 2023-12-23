@@ -8,7 +8,7 @@
 ## 🛠 Technologies
 ### Languages
 ![](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus)
-![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5)
 ![](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3)
