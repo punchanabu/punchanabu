@@ -2,7 +2,7 @@
 
 ## 🚀 Who Am I?
 - 🎓 A student studying at Computer Engineering and Digital Technology at Chulalongkorn University.
-- 📚 My experience includes Frontend Development using React, Backend using Node.js
+- 📚 Capable of using React as Frontend , Node.js as backend
 - 🤝 Eager to collaborate, learn, and make meaningful contributions in the tech world.
 
 ## 🛠 Technologies
