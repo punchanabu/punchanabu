@@ -1,8 +1,8 @@
 # Hello, I'm Punpun 👋
 ## About me
-- 🎓 A student studying at Computer Engineering and Digital Technology at Chulalongkorn University.
-- 📚 Capable of using React as Frontend , Node.js as backend
-- 🌱 I’m currently learning Rust
+- 🎓 A student studying at Computer Engineering and Digital Technology at Chulalongkorn University
+- 📚 Capable of using React as Frontend ,Node.js as backend.
+- 🌱 I’m currently learning Rust.
 - 🤝 Eager to collaborate, learn, and make meaningful contributions in the tech world.
 
 ## Technologies
