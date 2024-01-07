@@ -1,11 +1,10 @@
 # Hello, I'm Punpun 👋
 
-## 🚀 Who Am I?
 - 🎓 A student studying at Computer Engineering and Digital Technology at Chulalongkorn University.
 - 📚 Capable of using React as Frontend , Node.js as backend
 - 🤝 Eager to collaborate, learn, and make meaningful contributions in the tech world.
 
-## 🛠 Technologies
+## Technologies
 ### Languages
 ![](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
