@@ -1,21 +1,23 @@
+<div align = "center">
+
 # Hi there, I'm Punpun! 👋
 
 ## 🚀 About Me
-I'm a Software Developer. Passionate about building an application, I'm currently focused on building the existing technology from scratch like redis etc. Always eager to learn new things and collaborate on interesting projects!
+- I'm a Computer Engineering and Digital Technology Student at Chulalongkorn University
+- Passionate about building applications and currently focused on learning Go and Rust
+- I thrive on creativity and innovation, often working on random projects that spark my interest.
+- Always eager to learn new things and collaborate on cools projects
 
 ## 🛠 Skills
-- Languages: Python, JavaScript, C++, etc.
-- Frameworks: React, Django, Flask, Node.js, etc.
-- Tools: Docker, Git, Jenkins, Kubernetes, etc.
-- Databases: MySQL, MongoDB, PostgreSQL, etc.
+- Languages: Python, JavaScript, C++, Go, Rust
+- Frameworks: React, Django, Flask, Node.js
+- Tools: Docker, Git, Jenkins, Kubernetes
+- Databases: MySQL, MongoDB, PostgreSQL
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=punchanabu&show_icons=true&theme=radical)
 
-
 ## 🤝 How to reach me:
 - Email: your-email@example.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
-
+</div>
