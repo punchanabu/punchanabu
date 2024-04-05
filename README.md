@@ -1,6 +1,6 @@
 <div align="center">
     
-## Hi there, I'm Punpun! 👋
+# Hi there, I'm Punpun! 👋
 
 
 🎓  I'm a Computer Engineering and Digital Technology Student at Chulalongkorn University  
