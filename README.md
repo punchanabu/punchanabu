@@ -1,9 +1,4 @@
-<div align = "center">
-
 ## Hi there, I'm Punpun! 👋
-
-
-## 🚀 About Me
 
 
 🎓 I'm a Computer Engineering and Digital Technology Student at Chulalongkorn University  
@@ -11,13 +6,11 @@
 🛠️ I thrive on creativity and innovation, often working on random projects that spark my interest  
 🌱 Always eager to learn new things and collaborate on cool projects  
 
+## Skills
 
-## 🛠 Skills
-
-### Languages
-
+### Language
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,go" />
+    <img src="https://skillicons.dev/icons?i=js,ts,go" />
 </a>
 
 ### Framework
@@ -27,7 +20,7 @@
 
 ### Database and Tools
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,postman,docker,git,github" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,postman,docker,git" />
 </a>
 
 ## 📈 Stats
@@ -35,6 +28,4 @@
 
 ## 🤝 How to reach me:
 📧 Email: punpunsirawit@gmail.com
-
-</div>
 
