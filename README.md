@@ -3,7 +3,7 @@
 # Hi there, I'm Punpun! 👋
 
 🎓  I'm a Computer Engineering and Digital Technology student at Chulalongkorn University.  
-💡  Passionate about building applications, I'm currently focused on learning Go and Rust.  
+💡  Passionate about building applications, I'm currently focused on learning Go.
 🛠️  I thrive on creativity and innovation, often working on random projects that spark my interest.  
 🌱  I'm always eager to learn new things and collaborate on cool projects.
 
