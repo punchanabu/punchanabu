@@ -21,7 +21,7 @@
 
 ### Databases and Tools
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,postman,docker,git" />
+    <img src="https://skillicons.dev/icons?i=postgres,prisma,postman,docker,git" />
 </a>
 
 ## Statistics
