@@ -1,27 +1,27 @@
-<div align="center">
+<div>
     
 # Hi there, I'm Punpun! 👋
 
-🎓  I'm a Computer Engineering and Digital Technology student at Chulalongkorn University.  
-💡  Passionate about building applications, I'm currently focused on learning Go.  
-🛠️  I thrive on creativity and innovation, often working on random projects that spark my interest.  
-🌱  I'm always eager to learn new things and collaborate on cool projects.
+- I'm a Engineering student at Chulalongkorn University.  
+- Passionate about building web applications
+- I thrive on creativity and innovation, often working on random projects that spark my interest.  
+- I'm always eager to learn new things and collaborate on cool projects.
 
 ## Technologies
 
 ### Languages
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,go" />
+    <img src="https://skillicons.dev/icons?i=js,ts" />
 </a>
 
 ### Frameworks
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,tailwind,express" />
+    <img src="https://skillicons.dev/icons?i=react,next,tailwind,express,nestjs,apollo" />
 </a>
 
 ### Databases and Tools
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,prisma,postman,docker,git" />
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,graphql,sequelize,prisma,postman,docker" />
 </a>
 
 ## Statistics
