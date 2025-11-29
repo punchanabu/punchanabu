@@ -30,8 +30,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Statistics
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=punchanabu&show_icons=true)
 
 ## Contact
 📧 Email: punpunsirawit@gmail.com
